@@ -4,3 +4,4 @@ add
 
 global
 
+siging-key add
